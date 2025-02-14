@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Camara 1
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1,Camara 2
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
